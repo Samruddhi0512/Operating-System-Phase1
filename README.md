@@ -196,38 +196,6 @@ Computer Engineering Student
 
 ---
 
-# ☁️ GitHub Upload Steps
-
-## Create Repository
-
-1. Open GitHub
-2. Click on **New Repository**
-3. Enter repository name
-4. Click **Create Repository**
-
----
-
-## Upload Using Git Commands
-
-```bash
-git init
-git add .
-git commit -m "Initial Commit"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_LINK
-git push -u origin main
-```
-
----
-
-# 🏷️ Repository Name Suggestions
-
-* OS-Phase1-Simulator
-* Operating-System-Phase1
-* OS-Memory-Simulator
-* Phase1-OS-Project
-
----
 
 # 📜 License
 
