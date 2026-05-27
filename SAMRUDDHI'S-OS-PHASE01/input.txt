@@ -1,0 +1,17 @@
+$AMJ
+GD10
+PD10
+H
+$DTA
+HELLO SAMRUDDHI 
+$END
+
+$AMJ
+GD20
+LR20
+SR30
+PD30
+H
+$DTA
+OPERATING SYSTEM LAB 
+$END   //register load and store
